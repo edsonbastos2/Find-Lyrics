@@ -1,0 +1,12 @@
+.main{
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+/*CSS para impressão*/
+
+@page{
+    size: A4;
+    font-size: 12pt; 
+}
+    
